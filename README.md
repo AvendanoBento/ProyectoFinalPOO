@@ -55,5 +55,4 @@ CREATE DATABASE tienda;
 4. Seleccionar diferentes opciones para implementación de datos.
 
 ## Video
-
 https://youtu.be/Kz1SDZ65dfw
