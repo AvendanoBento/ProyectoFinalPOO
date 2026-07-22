@@ -1,0 +1,6 @@
+com\proyectofinal\modelo\Producto.class
+com\proyectofinal\servicio\Inventario.class
+com\proyectofinal\dao\ProductoDAO.class
+com\proyectofinal\Principal.class
+com\proyectofinal\ConexionBD.class
+com\proyectofinal\interfaces\vendible.class
